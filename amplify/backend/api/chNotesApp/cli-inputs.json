@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "chNotesApp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\colto\\Desktop\\amplifyapp\\amplify\\backend\\api\\chNotesApp\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-04-19T15:40:45.420Z",
+      "keyDescription": "demo"
+    }
+  }
+}
